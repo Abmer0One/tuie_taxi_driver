@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "254683518139",
+    "project_id": "tuie-taxi-ea974",
+    "storage_bucket": "tuie-taxi-ea974.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254683518139:android:8dfec5e075d5477605859e",
+        "android_client_info": {
+          "package_name": "com.example.tuie_driver_taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254683518139-1t0pgscm41hg568cqco9p31fp2np9bl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC5DdBfeAkeYWvYlng0xRP0FQRHaJJtfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254683518139-1t0pgscm41hg568cqco9p31fp2np9bl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254683518139:android:0883f6a384d792fd05859e",
+        "android_client_info": {
+          "package_name": "com.example.tuie_taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254683518139-fip7nh8tq6bqcltpahrl80t75tmhpip9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tuie_taxi",
+            "certificate_hash": "2083f506cde1df01c7ae06b6ba0e5c649ce22cfc"
+          }
+        },
+        {
+          "client_id": "254683518139-1t0pgscm41hg568cqco9p31fp2np9bl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC5DdBfeAkeYWvYlng0xRP0FQRHaJJtfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254683518139-1t0pgscm41hg568cqco9p31fp2np9bl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
